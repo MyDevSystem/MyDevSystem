@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Zakaria 👋
+A junior ethical hacker with a passion for cybersecurity and a drive to learn and grow. I'm excited to share my journey and projects with you.
 
-<!--
-**MyHackingSystem/MyHackingSystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+🔍 Currently learning: Penetration testing, vulnerability assessment, and security research
+💻 Programming languages: Python, Java, Kotlin, C#, C++, JavaScript
+🌐 Interests: Web security, network security, cryptography
+📚 Goals: To become a certified ethical hacker and contribute to the cybersecurity community
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Skills
+Programming languages: Python, Java, Kotlin, C#, C++, JavaScript
+Operating Systems: Windows, Linux, macOS
+Security tools: Nmap, Metasploit, Burp Suite
+Certifications: Google Cybersecurity
